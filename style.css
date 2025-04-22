@@ -90,11 +90,6 @@ a:hover{
 color: gray;
 }
 
-form{
-position: fixed;
-top:15%;
-left:40%;
-}
 
 .error{
     background-color: transparent;
